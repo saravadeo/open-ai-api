@@ -8,7 +8,7 @@ import {BrowserRouter, Route, Routes} from 'react-router-dom';
 
 function App() {
     const header = {
-        "Authorization": "Bearer <<Secret Key>>",
+        "Authorization": "Bearer  <<Secret Key>>",
         "Content-Type": 'application/json',
     };
     return (
